@@ -15,7 +15,7 @@
 
 ### Description
 
-When you're searching for powder, the last thing an avid skier or boarder wants to do is open up tons of different website searching for the best place to ski with the least travel issues. In the past, you'd have to go to Google Maps for Driving Directions, your favorite weather website for weather info, and each individual resort's website for snow condition. Not cool Bro. Well, the Powder Bound app puts all this information into one convenient location allowing you to plan your stoke with ease. Powder Bound allows you to select your favorite Colorado ski destination to quickly see snow conditions, driving directions, and weather forecast information. It's everything you need to hit the slopes, strap in, and shred the gnar when it's dumping!
+When you're searching for powder, the last thing an avid skier or boarder wants to do is open up tons of different websites searching for the best place to ski with the least travel issues. In the past, you'd have to go to Google Maps for Driving Directions, your favorite weather website for weather info, and each individual resort's website for snow condition. Not cool Bro. Well, the Powder Bound app puts all this information into one convenient location allowing you to plan your stoke with ease. Powder Bound allows you to select your favorite Colorado ski destination to quickly see snow conditions, driving directions, and weather forecast information. It's everything you need to hit the slopes, strap in, and shred the gnar when it's dumping!
 
 ### User Story
 
@@ -34,11 +34,10 @@ about the travel process such as weather, driving directions, snow conditions, a
 ## Future Enhancements
 
 1. Sync the weather with driving directions so the user knows what the weather is forecasted to be when they get to various waypoints on their route.
-2. Display all SNOTEL stations in Colorado on the map to provide info for backcountry skiers.
+2. Display all SNOTEL stations in Colorado on the map to provide info for backcountry skiers. -- Done!
 3. Add travel alerts to the driving directions display.
 4. Use secure authentication and server side storage for user profiles
 5. Increase robustness of input validation
-6. Refactor code to single purpose functions
 
 ## Acceptance Criteria
 
