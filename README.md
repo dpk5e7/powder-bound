@@ -91,7 +91,7 @@ THEN I can set my preferred started location, my preferred mountains, preferred 
 ### 3rd Party Application Programming Interfaces
 
 1. [Open Weather](https://openweathermap.org/api/one-call-3)
-2. [Powderlin.es - SNOTEL DATA](http://powderlin.es/api.html) - Special thanks to Bobby Marko for helping us navigate the CORS and mixed content issues with his API.
+2. [Powderlines.js - SNOTEL DATA](https://powderlines.kellysoftware.org/) - Special thanks to Bobby Marko for helping us navigate the CORS and mixed content issues with his API.
 3. [Google Static Maps](https://developers.google.com/maps/documentation/maps-static/overview)
 4. [MapQuest Directions](https://developer.mapquest.com/documentation/directions-api/)
 5. [MapQuest GeoCoding & Reverse Geocoding](https://developer.mapquest.com/documentation/geocoding-api/)
